@@ -1,5 +1,6 @@
 # Library
-This 
+This is my project. The task was to create a simple library system.
+
 ```sql
 CREATE TABLE IF NOT EXISTS users(
   user_id INTEGER NOT NULL PRIMARY KEY,
