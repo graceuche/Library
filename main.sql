@@ -1,4 +1,4 @@
-.open dbdog
+.open Library
 
 .mode column
 .header on
