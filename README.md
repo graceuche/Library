@@ -10,9 +10,11 @@ Data about people, places, or things are collected, aggregated and stored in for
 
 SQL consists of several sublanguages namely;
 
------Data Definition Language (DDL) - is used by engineers and software developers to create and/or modify database objects such as tables
+Data Definition Language (DDL) - is used by engineers and software developers to create and/or modify database objects such as tables
 
------Data Manipulation Language (DML)
+With Data Manipulation Language (DML), data engineers and software developers can insert, delete, modify and populate databases; such as, connect users to the database via user interface.
+
+Data analysts use Data Query Language (DQL) to gain insight of data in the database.
 
 ```sql
 CREATE TABLE IF NOT EXISTS users(
